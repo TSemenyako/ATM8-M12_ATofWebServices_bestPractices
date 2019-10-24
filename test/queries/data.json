@@ -1,0 +1,10 @@
+[
+    {
+        "uri": "/UI/queries",
+        "method": "GET"
+    },
+    {
+        "uri": "/Queries/Queries",
+        "method": "GET"
+    }
+]

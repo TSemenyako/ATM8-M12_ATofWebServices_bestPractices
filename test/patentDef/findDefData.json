@@ -1,0 +1,34 @@
+[
+    {
+        "uri": "/Queries/queryexecution/658",
+        "method": "POST",
+        "body": {
+            "Filters": [
+                {
+                    "NumberOfLeftParentheses": 0,
+                    "FieldAlias": "PAM$DOCKETNUMBER",
+                    "FilterOperator": 2,
+                    "LeftFieldValue": "Test",
+                    "NumberOfRightParentheses": 0,
+                    "SubsequentLogicalOperator": 0,
+                    "IsFieldComparisonFilter": false
+                }
+            ],
+            "ExecuteCount": true,
+            "DisplaySettings": {
+                "CountryDisplaySetting": 2,
+                "PartyDisplaySetting": 2,
+                "CodeDisplaySetting": 2
+            },
+            "Culture": "en-US",
+            "DateFormat": "MM/dd/yyyy",
+            "TimeZoneOffsetInSeconds": -10800,
+            "IsForceExecution": false,
+            "ItemsCount": 0,
+            "PaginationDescriptor": {
+                "PageNumber": 0,
+                "PageSize": 25
+            }
+        }
+    }
+]

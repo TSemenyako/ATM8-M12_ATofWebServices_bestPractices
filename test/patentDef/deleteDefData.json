@@ -1,0 +1,11 @@
+[
+    {
+        "uri": "/Records/records/delete/",
+        "method": "POST",
+        "body": {
+            "MasterId": 0,
+            "IpType": 1,
+            "ResourceId": 1373
+          }
+    }
+]
